@@ -1,1 +1,1 @@
-# Echo-State-Network - Sine-Wave
+# Echo State Network - Sine Wave
